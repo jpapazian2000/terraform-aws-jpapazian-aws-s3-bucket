@@ -1,0 +1,1 @@
+bucket_name = "jpapazian-aws-s3"
